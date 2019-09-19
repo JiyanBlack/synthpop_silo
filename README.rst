@@ -9,6 +9,8 @@ SynthPop
    :alt: Test Coverage
    :target: https://coveralls.io/r/UDST/synthpop?branch=master
 
+This is a implementation of SynthPop using ABS Microdata.
+
 SynthPop is a reimplementation of `PopGen`_ using the modern scientific Python
 stack, with a focus on performance and code reusability.
 
